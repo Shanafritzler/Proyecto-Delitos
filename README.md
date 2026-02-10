@@ -14,7 +14,7 @@ interpretación de resultados y en la comparación entre distintos enfoques de m
 Se utilizan registros de delitos ocurridos en la Ciudad de Buenos Aires entre los años 2021 y 2023.
 Cada registro representa un evento delictivo, con información temporal, espacial y del tipo de delito.
 
-Los archivos de datos originales no se incluyen en el repositorio por razones de tamaño y licencia.
+Los archivos de datos originales no se incluyen en el repositorio por razones de tamaño.
 
 ---
 
